@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Post Processing
   - Water
   - UI
   - Floor
@@ -36,7 +36,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Test Layer
   m_SortingLayers:
   - name: Default
     uniqueID: 0
