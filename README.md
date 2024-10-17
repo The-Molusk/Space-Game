@@ -4,7 +4,7 @@
 A video game in based around space exploration made using the Unity Game Engine and written in C#
 This game will be playable on devices running Windows 10/11 (I am considering Linux as well)
 
-![alt text]([https://github.com/Tidod/Space-Game/blob/[branch]/image.jpg](https://github.com/Tidod/Space-Game/blob/main/Project%20Showcse%20(Leave%20alone)/Corpse%20Model.png)?raw=true)
+![alt text]([https://github.com/Tidod/Space-Game/blob/[branch]/image.jpg](https://github.com/Tidod/Space-Game/blob/main/ProjectShowcse%20(Leave%20alone)/Corpse%20Model.png)?raw=true)
 
 
 > [!IMPORTANT]
