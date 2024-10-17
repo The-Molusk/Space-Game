@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\milos\\Documents\\Unity Games\\Game IDK\\Space-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milos\\Documents\\Unity Games\\Game IDK\\Space-Game\\Temp\\Compiled-Skybox-6 Sided.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\Compiled-Skybox-6 Sided.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{F99D3AF1-9D58-DB0D-A860-4A1434E8FEEF}|Assembly-CSharp.csproj|c:\\users\\milos\\documents\\unity games\\game idk\\space-game\\assets\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99D3AF1-9D58-DB0D-A860-4A1434E8FEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Compiled-Skybox-6 Sided.shader",
-              "DocumentMoniker": "C:\\Users\\milos\\Documents\\Unity Games\\Game IDK\\Space-Game\\Temp\\Compiled-Skybox-6 Sided.shader",
-              "RelativeDocumentMoniker": "Temp\\Compiled-Skybox-6 Sided.shader",
-              "ToolTip": "C:\\Users\\milos\\Documents\\Unity Games\\Game IDK\\Space-Game\\Temp\\Compiled-Skybox-6 Sided.shader",
-              "RelativeToolTip": "Temp\\Compiled-Skybox-6 Sided.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2024-09-25T14:41:34.142Z",
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\Documents\\Unity Games\\Game IDK\\Space-Game\\Assets\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\FollowPlayer.cs",
+              "ToolTip": "C:\\Users\\milos\\Documents\\Unity Games\\Game IDK\\Space-Game\\Assets\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\FollowPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:32:32.442Z",
               "EditorCaption": ""
             }
           ]
