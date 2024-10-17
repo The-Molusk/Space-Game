@@ -1,12 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\milos\\Documents\\Unity Games\\Game IDK\\Space-Game\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Molusk\\Documents\\GitHub\\Space-Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F99D3AF1-9D58-DB0D-A860-4A1434E8FEEF}|Assembly-CSharp.csproj|C:\\Users\\Molusk\\Documents\\GitHub\\Space-Game\\assets\\characterfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99D3AF1-9D58-DB0D-A860-4A1434E8FEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\characterfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99D3AF1-9D58-DB0D-A860-4A1434E8FEEF}|Assembly-CSharp.csproj|C:\\Users\\Molusk\\Documents\\GitHub\\Space-Game\\assets\\scripts\\characterswap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99D3AF1-9D58-DB0D-A860-4A1434E8FEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterswap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99D3AF1-9D58-DB0D-A860-4A1434E8FEEF}|Assembly-CSharp.csproj|c:\\users\\molusk\\documents\\github\\space-game\\assets\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99D3AF1-9D58-DB0D-A860-4A1434E8FEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99D3AF1-9D58-DB0D-A860-4A1434E8FEEF}|Assembly-CSharp.csproj|c:\\users\\molusk\\documents\\github\\space-game\\assets\\playertracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99D3AF1-9D58-DB0D-A860-4A1434E8FEEF}|Assembly-CSharp.csproj|solutionrelative:assets\\playertracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "playerTracker.cs",
+              "DocumentMoniker": "C:\\Users\\Molusk\\Documents\\GitHub\\Space-Game\\Assets\\playerTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\playerTracker.cs",
+              "ToolTip": "C:\\Users\\Molusk\\Documents\\GitHub\\Space-Game\\Assets\\playerTracker.cs",
+              "RelativeToolTip": "Assets\\playerTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:39:01.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterSwap.cs",
+              "DocumentMoniker": "C:\\Users\\Molusk\\Documents\\GitHub\\Space-Game\\Assets\\Scripts\\CharacterSwap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSwap.cs",
+              "ToolTip": "C:\\Users\\Molusk\\Documents\\GitHub\\Space-Game\\Assets\\Scripts\\CharacterSwap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterSwap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:28:26.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "characterFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Molusk\\Documents\\GitHub\\Space-Game\\Assets\\characterFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\characterFollow.cs",
+              "ToolTip": "C:\\Users\\Molusk\\Documents\\GitHub\\Space-Game\\Assets\\characterFollow.cs",
+              "RelativeToolTip": "Assets\\characterFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:22:44.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Molusk\\Documents\\GitHub\\Space-Game\\Assets\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\FollowPlayer.cs",
+              "ToolTip": "C:\\Users\\Molusk\\Documents\\GitHub\\Space-Game\\Assets\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\FollowPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:32:32.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
