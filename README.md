@@ -4,8 +4,12 @@
 A video game in based around space exploration made using the Unity Game Engine and written in C#
 This game will be playable on devices running Windows 10/11 (I am considering Linux as well)
 
-![alt text](https://github.com/Tidod/Space-Game/blob/main/Project%20Showcse%20(Leave%20alone)/Planet%20Env.png?raw=true)
-![alt text](https://github.com/Tidod/Space-Game/blob/main/Project%20Showcse%20(Leave%20alone)/Indoor%20Env.png?raw=true)
+<p align="center">
+  <img src="https://github.com/Tidod/Space-Game/blob/main/Project%20Showcse%20(Leave%20alone)/Planet%20Env.png" width="400">
+  <img src="https://github.com/Tidod/Space-Game/blob/main/Project%20Showcse%20(Leave%20alone)/Planet%20Env%202.png" width="400">
+  <img src="https://github.com/Tidod/Space-Game/blob/main/Project%20Showcse%20(Leave%20alone)/Werapon.png" width="400">
+  <img src="https://github.com/Tidod/Space-Game/blob/main/Project%20Showcse%20(Leave%20alone)/Indoor%20Env.png" width="400">
+</p>
 
 
 > [!IMPORTANT]
